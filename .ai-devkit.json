@@ -2,7 +2,9 @@
   "version": "0.27.0",
   "environments": [
     "cursor",
+    "claude",
     "github",
+    "gemini",
     "antigravity"
   ],
   "phases": [
@@ -15,7 +17,7 @@
     "monitoring"
   ],
   "createdAt": "2026-04-29T07:20:31.903Z",
-  "updatedAt": "2026-04-30T08:14:24.645Z",
+  "updatedAt": "2026-05-05T10:23:07.759Z",
   "skills": [
     {
       "registry": "codeaholicguy/ai-devkit",
